@@ -1,5 +1,5 @@
 I'm relatively new to the world of programming.  
-It all started back in 2018 when I took an Excel class in college for my Business minor, 
+It all started when I took an Excel class in college for my Business minor, 
 and found myself surprisingly enthralled with the software.  From there I discovered VBA programming,
 which I utilized at my job where I automated my coworkers' procedures to drastically cut down on our workload.
 
