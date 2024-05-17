@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fez-github.fez-github&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm relatively new to the world of programming. It all started when I took an Excel class in college for my Business minor, and found myself surprisingly enthralled with the software. From there I discovered VBA programming, which I utilized at my job where I automated my coworkers' procedures to drastically cut down on our workload.<br><br>Throughout that process my passion for coding made itself abundantly clear, and I set myself out onto the path of a programmer. I then enrolled in an online programming bootcamp  to learn the fundamentals of software development and refine my craft. Through that I've made various projects as a means of building my skills, and to make software for my own personal use.<br><br>My repositories contain a number of these projects, and I hope to keep adding more as I grow.</p>
+<p align="left">It all started when I took an Excel class in college for my Business minor, and found myself surprisingly enthralled with the software. From there I discovered VBA programming, which I utilized at my job where I automated my coworkers' procedures to drastically cut down on our workload.<br><br>Throughout that process my passion for coding made itself abundantly clear, and I set myself out onto the path of a programmer. I then enrolled in an online programming bootcamp  to learn the fundamentals of software development and refine my craft. Through that I've made various projects as a means of building my skills, and to make software for my own personal use.<br><br>My repositories contain a number of these projects, and I hope to keep adding more as I grow.</p>
 
 ###
 
